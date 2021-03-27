@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KC5EIgrzaiqz2OTlJyZJu5zpXRAnPF112ihqLW/zmBA8P1G/F7RVGEh2bjzkLhb6D52EreYV7nnysg7NojOPJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikhail\\TodoList\\TodoList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikhail\\.nuget\\packages\\google.apis\\1.51.0\\google.apis.1.51.0.nupkg.sha512",
+    "C:\\Users\\mikhail\\.nuget\\packages\\google.apis.auth\\1.51.0\\google.apis.auth.1.51.0.nupkg.sha512",
+    "C:\\Users\\mikhail\\.nuget\\packages\\google.apis.core\\1.51.0\\google.apis.core.1.51.0.nupkg.sha512",
+    "C:\\Users\\mikhail\\.nuget\\packages\\google.apis.tasks.v1\\1.51.0.2231\\google.apis.tasks.v1.1.51.0.2231.nupkg.sha512",
+    "C:\\Users\\mikhail\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
